@@ -1,0 +1,19 @@
+global-styling:
+  css:
+    theme:
+      dist/main.css: {}
+      css/styles.css: {}
+      # css/fonts.css: {}
+      css/drupal.css: {}
+      css/slick.css: {}
+      css/main.7f5b8707.css: {}
+  js:
+    dist/script.js: {}
+    js/slick.min.js: {}
+    js/script.js: {}
+    js/carousel.js: {}
+    js/main.0e2a78b7.js: {}
+    # js/destini.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
